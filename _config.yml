@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+deploy:
+  type: git
+  repository: https://github.com/wjjzzdlzd/wjjzzdlzd.github.io
+  branch: master
